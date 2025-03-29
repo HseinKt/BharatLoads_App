@@ -7,7 +7,7 @@ import HeroSection from "./components/HeroSection"
 function App() {
 
   return (
-    <div className="main-screen">
+    <div className="app">
       <Header />
       <main>
         <HeroSection />
