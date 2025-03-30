@@ -47,13 +47,13 @@ nav {
     gap: 2rem;
 }
   
-.link {
+.navLinks .link {
     color: #4b5563;
     text-decoration: none;
     transition: color 0.2s;
 }
   
-.link:hover {
+.navLinks .link:hover {
     color: #2563eb;
 }
   
